@@ -5,4 +5,5 @@ ex1:
 
 ex2: ![image](https://github.com/deboralawall/ECC/assets/86936640/493c3862-6560-40b8-bfae-ddacde5cee0f)
 
+ex3: ![image](https://github.com/deboralawall/ECC/assets/86936640/cfb9c9c0-c8b2-4cc4-a8a9-747d38654c60)
 
